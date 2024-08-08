@@ -39,7 +39,7 @@ open index.html
 Feel free to fork this repository, create a branch, make your changes, and submit a pull request! Contributions are welcome.
 
 ## License
-This project is licensed under the MIT License—see the LICENSE file for details.
+This project is licensed under the MIT License—see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 Inspired by the classic Rock Paper Scissor game.
